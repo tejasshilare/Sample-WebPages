@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .btn3
+  {
+      display: inline-block;
+      background: #c2c2c2;
+      color: rgb(31, 31, 31);
+      padding: 8px 45px;
+      margin: 0px 70px;
+      border-radius: 30px;
+      border: #555;
+      transition: background 0.1s;
+      text-decoration: none;
+      position: absolute;
+      top: 117%;
+  }
+  .btn3:hover
+  {
+      background: #070707;
+      color: rgb(255, 246, 246);
+  }
+  table {
+    border-collapse: collapse;
+}
+.b1{
+    position: relative;
+}
+.b2{
+    position: relative;
+}
+h1{
+    color: rgb(18, 17, 17); position:absolute; top: 15%; padding: 40px; font-size: 80px;
+}
+h2{
+    color: rgb(18, 17, 17); position:absolute; top: 25%; padding: 40px; font-size: 80px;
+}
+p{
+    position: absolute; top:37%; padding: 40px; font-family: Arial, Helvetica, sans-serif; color: rgb(58, 58, 58);
+}
+h3{
+    color: rgb(18, 17, 17); position:absolute; padding: 73px;top: 93%;  font-size: 50px;
+}
+h4{
+    color: rgb(18, 17, 17); position:absolute; padding: 75px;top: 102%;font-size: 20px;
+}
+.btn
+{
+display: inline-block;
+background: #ffffff;
+color: rgb(31, 31, 31);
+padding: 8px 30px;
+margin: 30px 0;
+border-radius: 30px;
+border: #555;
+transition: background 0.1s;
+text-decoration: none;
+position: absolute;
+margin-left: 30px;
+top: 43%;
+}
+.btn:hover
+{
+background: #4c3a3a;
+color: rgb(255, 246, 246);
+}
+.btn2
+{
+display: inline-block;
+background: #ffffff;
+color: rgb(31, 31, 31);
+padding: 8px 30px;
+margin: 30px 0;
+border-radius: 30px;
+border: #555;
+transition: background 0.1s;
+text-decoration: none;
+position: absolute;
+margin-left: 195px;
+top: 43%;
+}
+.btn2:hover
+{
+background: #4c3a3a;
+color: rgb(255, 246, 246);
+}
+
+.imgx{
+padding-left: 0px; 
+padding: 40px;
+padding-right: 70px;
+}
